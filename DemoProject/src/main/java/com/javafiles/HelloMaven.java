@@ -6,6 +6,7 @@ public class HelloMaven {
 		System.out.println("Hello Maven...!!");
 		System.out.println("Hello STS...!!");
 		System.out.println("Hello All Welcome...!!");
+		System.out.println("Rebase Demo");
 	}
 
 }
