@@ -5,5 +5,6 @@ public class NewFratureClass {
 	
 	private void featureMethod() {
 		System.out.println(s);
+		System.out.println("another message from master");
 	}
 }
