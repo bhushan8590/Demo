@@ -7,4 +7,8 @@ public class NewFratureClass {
 		System.out.println(s);
 		System.out.println("another message from master");
 	}
+	
+	public void newFeature() {
+		System.out.println("New feature Added");
+	}
 }
