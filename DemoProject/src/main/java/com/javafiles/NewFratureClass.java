@@ -10,5 +10,7 @@ public class NewFratureClass {
 	
 	public void newFeature() {
 		System.out.println("New feature Added");
+		System.out.println("New SubBranch Test");
+		System.out.println("New Test Message");
 	}
 }
