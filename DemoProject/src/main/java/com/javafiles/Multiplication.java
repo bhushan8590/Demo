@@ -7,4 +7,9 @@ public class Multiplication {
 		System.out.println(prod);
 
 	}
+	
+	private void multiplyTwoNumber(int a, int b) {
+		int prod=a*b;
+		System.out.println(prod);
+	}
 }
