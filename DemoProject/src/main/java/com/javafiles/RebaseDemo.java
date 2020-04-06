@@ -4,6 +4,7 @@ public class RebaseDemo {
 	// Learning Rebase with Demo class
 	public void rebaseMethod() {
 		System.out.println("Adding sample method");
+		System.out.println("Sub rebase branch");
 	}
 
 }
