@@ -12,9 +12,4 @@ public class Multiplication {
 		int prod=a*b;
 		System.out.println(prod);
 	}
-	
-	private void multiplyThreeNumber(int a, int b, int c) {
-		int prod=a*b*c;
-		System.out.println(prod);
-	}
 }
