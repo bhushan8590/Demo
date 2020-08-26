@@ -10,8 +10,8 @@ public class NewClass {
 		System.out.println("New Message from Master");
 		System.out.println("New Revert Demo");
 		System.out.println("Test merge conflict");
-		System.out.println("adding line to craete conflict");
-		System.out.println("creating some extra conflict");
+		System.out.println("adding extra msg to test conflict");
+		System.out.println("learning to solve conflict");
 
 	}
 }
