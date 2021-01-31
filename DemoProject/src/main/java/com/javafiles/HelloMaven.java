@@ -7,8 +7,13 @@ public class HelloMaven {
 		System.out.println("Hello STS...!!");
 		System.out.println("Hello All Welcome...!!");
 		System.out.println("Another Hello...!!");
-		getHelloFromFun();
+		welcome();
+	}
+
+	private static void welcome() {
 		greet();
+		getHelloFromFun();
+		
 	}
 
 	private static void greet() {
