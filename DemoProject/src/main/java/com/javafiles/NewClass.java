@@ -14,6 +14,7 @@ public class NewClass {
 		System.out.println("learning to solve conflict");
 		System.out.println("Trying to pull master changes to FTR");
 		System.out.println("Trying to pull master changes to FTR with merge");
+		System.out.println("Hello there..!!");
 
 	}
 }
