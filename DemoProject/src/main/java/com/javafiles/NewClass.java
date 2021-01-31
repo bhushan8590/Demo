@@ -15,6 +15,7 @@ public class NewClass {
 		System.out.println("Trying to pull master changes to FTR");
 		System.out.println("Trying to pull master changes to FTR with merge");
 		System.out.println("Hello there..!!");
+		System.out.println("Hello from FTR-307..!!");
 
 	}
 }
