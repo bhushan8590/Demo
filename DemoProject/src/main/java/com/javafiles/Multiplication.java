@@ -16,4 +16,8 @@ public class Multiplication {
 		int prod=a*b*c;
 		System.out.println(prod);
 	}
+	private void multiplyThreeNumber(int a, int b, int c, int d) {
+		int prod=a*b*c*d;
+		System.out.println(prod);
+	}
 }
