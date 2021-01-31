@@ -4,7 +4,7 @@ public class Multiplication {
 	int a=10,b=10;	
 	private void multiply() {
 		int prod=multiplyTwoNumber(a, b);
-		System.out.println("Result:"+prod);
+		System.out.println("Result is:"+prod);
 
 	}
 	
