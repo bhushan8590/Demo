@@ -7,6 +7,7 @@ public class HelloMaven {
 		System.out.println("Hello STS...!!");
 		System.out.println("Hello All Welcome...!!");
 		System.out.println("Another Hello...!!");
+		System.out.println("Hello FTR-308...!!");
 		welcome();
 	}
 
