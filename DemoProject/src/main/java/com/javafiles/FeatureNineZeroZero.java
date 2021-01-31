@@ -5,5 +5,9 @@ public class FeatureNineZeroZero {
 		System.out.println("New Function");
 
 	}
+	private void newFunction() {
+		System.out.println("New Function");
+
+	}
 
 }

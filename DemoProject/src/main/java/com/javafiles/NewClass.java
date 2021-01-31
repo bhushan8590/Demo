@@ -13,6 +13,7 @@ public class NewClass {
 		System.out.println("adding extra msg to test conflict");
 		System.out.println("learning to solve conflict");
 		System.out.println("Trying to pull master changes to FTR");
+		System.out.println("Trying to pull master changes to FTR with merge");
 
 	}
 }
